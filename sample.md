@@ -1,3 +1,18 @@
+---
+layout: post
+title: Web scraping with rvest
+published: true
+status: publish
+draft: false
+tags: R 
+output: html_document  
+---
+
+
+
+
+
+
 Dplyr Practice
 karthik
 December 16, 2016
